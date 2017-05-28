@@ -1,11 +1,11 @@
-#AgData
+# AgData
 Provides pricing data for Agricultural commodities in India using a text-message based interface.
 Uses data scraped from Agmarket.nic.in.
 
-##Usage:
+## Usage:
 Text ```<market> <commodity> <date>``` to ```<Twilio number>```.
 
-####Example:
+#### Example:
 Texting:
 ```Shimla Potatoes May 28, 2017```
 would return:
